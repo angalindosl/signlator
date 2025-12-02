@@ -1,0 +1,3 @@
+[submodule "SignSense/SignSense"]
+	path = SignSense/SignSense
+	url = https://github.com/Jhong098/SignSense.git
