@@ -2,4 +2,4 @@ ASL to text translator using an arduino uno q 4gb running Sign-language-translat
 
 USAGE
 
-Use the provided step file to manufacture our shell, get an arduino uno q with 4gb, then install python and mediapipe, then clone the Jhong098/SignSense repo for translating ASL to text, and run client.py and server.py, if you find bugs or something that can be improved, immediately contact us, thank you!!!
+Use the provided step file to manufacture our shell, get an arduino uno q with 4gb, connect the ov3660 cam as a usb camera and place the display shield on top, then install python, then clone the Nizar04/Sign-Language-Translator repo for translating ASL to text, and run src/main.py for backend and cd frontend && npm start for frontend, then open http://localhost:3000 in your arduino's browser, if you find bugs or something that can be improved, immediately contact us, thank you!!!
