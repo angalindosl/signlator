@@ -1,4 +1,4 @@
-ASL to text translator using an arduino uno q 4gb running SignSense by Jhong098 , 2.4 inch tft display shield for arduino uno, an ov3660 and a custom made enclosure for the electronics, if you can spread it to as much people as possible and improve it as much as possible,
+ASL to text translator using an arduino uno q 4gb running Sign-language-translator by NIzar04, 2.4 inch tft display shield for arduino uno, an ov3660 and a custom made enclosure for the electronics, if you can spread it to as much people as possible and improve it as much as possible,
 
 USAGE
 
