@@ -1,3 +1,6 @@
 [submodule "SignSense/SignSense"]
 	path = SignSense/SignSense
 	url = https://github.com/Jhong098/SignSense.git
+[submodule "Sign-Language-Translator"]
+	path = Sign-Language-Translator
+	url = https://github.com/Nizar04/Sign-Language-Translator
